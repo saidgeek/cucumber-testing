@@ -1,0 +1,17 @@
+{
+  "name": "cucumber-testing",
+  "version": "1.0.0",
+  "description": "This is a project for learn how does it work",
+  "main": "index.js",
+  "repository": "git@github.com:saidgeek/cucumber-testing.git",
+  "author": "saidgeek <atarix.010101@gmail.com>",
+  "license": "GPLv3",
+  "private": false,
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.5",
+    "prettier": "2.0.5"
+  }
+}
